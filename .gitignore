@@ -1,0 +1,7 @@
+node_modules/
+session/
+messages.jsonl
+autoreply-state.json
+*.log
+qr.png
+.env
